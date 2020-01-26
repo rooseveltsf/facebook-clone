@@ -1,0 +1,68 @@
+div.container {
+  background-color: #fff;
+  width: 68%;
+  height: 350px;
+  margin: 35px auto;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+hr {
+  margin: 40px 0;
+  color: #d6d6d6;
+}
+
+div.test {
+  display: flex;
+  align-items: center;
+}
+
+div.container img {
+  width: 38px;
+  border-radius: 50%;
+}
+
+div.info-people {
+  margin: 0 20px;
+}
+
+h2.name {
+  font-size: 16px;
+  color: #333;
+}
+
+span.date {
+  color: #999;
+  font-size: 13px;
+}
+
+div.post {
+  margin-top: 20px;
+}
+
+div.post p {
+  line-height: 24px;
+  font-size: 18px;
+}
+
+div.coments {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.data {
+  background-color: #eeeeee;
+  padding: 15px;
+  margin-left: 10px;
+  border-radius: 25px;
+}
+
+span.name {
+  font-weight: bold;
+}
+
+span.coment {
+  line-height: 24px;
+}

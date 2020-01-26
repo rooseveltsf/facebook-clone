@@ -1,0 +1,25 @@
+header {
+  background-color: #3b5998;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+div.submenu {
+  display: flex;
+  align-items: center;
+}
+
+div.submenu h2 {
+  font-size: 20px;
+}
+
+div.submenu img {
+  width: 27px;
+  color: #fff;
+  margin-left: 13px;
+}
